@@ -1,0 +1,8 @@
+name: Freeze
+author: CactusCata
+version: 1.0.0
+main: fr.cactuscata.freeze
+commands:
+    freeze:
+        description: Permet de freeze un joueur
+        permission: server.freeze
